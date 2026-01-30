@@ -1,4 +1,18 @@
-## Hi there 👋
+
+# Hi, I'm mmmkes 👋  
+
+Data Scientist with a background in **finance, risk analysis, and engineering**.  
+I focus on turning complex data into **clear, actionable insights**.
+
+---
+
+## 🔧 Tech Stack
+- **Python, BigQuery SQL**
+- Pandas, NumPy, Scikit-Learn
+- Power BI, Looker Studio
+- Machine Learning, NLP, Generative AI
+
+- 
 
 <!--
 **mmmkes/mmmkes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
